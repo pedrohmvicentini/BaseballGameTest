@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\bin\Debug\net7.0\BaseballGame.exe
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\bin\Debug\net7.0\BaseballGame.deps.json
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\bin\Debug\net7.0\BaseballGame.runtimeconfig.json
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\bin\Debug\net7.0\BaseballGame.dll
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\bin\Debug\net7.0\BaseballGame.pdb
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.AssemblyInfo.cs
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.dll
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\refint\BaseballGame.dll
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.pdb
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\BaseballGame.genruntimeconfig.cache
+C:\Users\pedro\source\repos\BaseballGame\BaseballGame\obj\Debug\net7.0\ref\BaseballGame.dll
